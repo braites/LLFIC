@@ -11,6 +11,10 @@
 &nbsp;&nbsp;&nbsp;
 ![](/RD_Figures/Figure_3.png)
 &nbsp;&nbsp;&nbsp;
+![](/BD_Tables/Table_1.png)
+&nbsp;&nbsp;&nbsp;
+![](/BD_Tables/Table_2.png)
+&nbsp;&nbsp;&nbsp;
 
 ## 2)	Non-Royalty-Free LLFIC Solutions Assessment
 ![](/RD_Figures/Figure_4.png)
@@ -19,6 +23,10 @@
 &nbsp;&nbsp;&nbsp;
 ![](/RD_Figures/Figure_6.png)
 &nbsp;&nbsp;&nbsp;
+![](/BD_Tables/Table_3.png)
+&nbsp;&nbsp;&nbsp;
+![](/BD_Tables/Table_4.png)
+&nbsp;&nbsp;&nbsp;
 
 ## 3)	Best Royalty-Free versus Non-Royalty-Free LLFIC Solutions Comparison
 ![](/RD_Figures/Figure_7.png)
@@ -26,4 +34,8 @@
 ![](/RD_Figures/Figure_8.png)
 &nbsp;&nbsp;&nbsp;
 ![](/RD_Figures/Figure_9.png)
+&nbsp;&nbsp;&nbsp;
+![](/BD_Tables/Table_5.png)
+&nbsp;&nbsp;&nbsp;
+![](/BD_Tables/Table_6.png)
 &nbsp;&nbsp;&nbsp;
