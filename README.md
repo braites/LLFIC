@@ -40,12 +40,3 @@ Besides the PSNR-YUV and SSIM-Y results included in the paper, this page also co
 &nbsp;&nbsp;&nbsp;
 ![](/BD_Tables/Table_6.png)
 &nbsp;&nbsp;&nbsp;
-
-## 4) Title
-
-| Reference                      | Fidelity | Data Representation Basis | Data Type          | Data Structure         |
-|--------------------------------|----------|---------------------------|--------------------|------------------------|
-| C\. Conti et al\., 2011 \[12\] | Lossy    | Micro\-Image              | Texture            | Single 2D Image        |
-| C\. Conti et al\., 2011 \[13\] | Lossy    | Micro\-Image              | Texture            | Single 2D Image        |
-| C\. Conti et al\., 2012 \[14\] | Lossy    | Micro\-Image              | Texture            | Single 2D Image        |
-| C\. Conti et al\., 2013 \[15\] | Lossy    | Micro\-Image              | Texture\+ Geometry | Layered Sets of Images |
