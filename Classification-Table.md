@@ -1,7 +1,7 @@
 ## IEEE TCSVT 2019 Supplemental Material - Part 2
 
 <p>This page contains a summary table where a very large set of LLFIC references are classified according to the LLFIC taxonomy proposed in the paper titled:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, “Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating”, submitted &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to IEEE Transactions on Circuits and Systems for Video Technology, December 2019.</p>
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, “Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating”, submitted &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to IEEE Transactions on Circuits and Systems for Video Technology, December 2019.</p></em>
 
 Besides the summary table, this page also contains a list of references that are not included in the current paper version due to space limitations ([114]-[140]).
 
