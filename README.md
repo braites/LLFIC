@@ -5,7 +5,8 @@
 
 Besides the PSNR-YUV and SSIM-Y results included in the paper, this page also contains PSNR-Y and BD-Rate/BD-PSNR (for both Y and YUV components) results for the 3 assessment scenarios considered in the paper: 1) royalty-free LLFIC solutions assessment; 2) non-royalty-free LLFIC solutions assessment; and 3) best royalty-free versus non-royalty-free LLFIC solutions comparison.
 
-A summary table where a very large set of LLFIC references are classified according to the taxonomy proposed in the paper can be found here [a relative link](ClassificationTable.md)
+A summary table where a very large set of LLFIC references are classified according to the taxonomy proposed in the paper can be found in [ClassificationTable page.](ClassificationTable.md)
+
 
 ## 1)	Royalty-Free LLFIC Solutions Assessment
 ![](/RD_Figures/Figure_1.png)
