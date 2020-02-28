@@ -1,13 +1,13 @@
 # IEEE TCSVT 2020 Supplemental Material - Part 1
 
-<p>This page contains supplemental RD performance assessment results that accompany the paper titled:</p>
-<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, “Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating”, accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology, February 2020.</em> (https://ieeexplore.ieee.org/document/9016088)</p><br/>
+<p>This page contains supplemental RD performance assessment results that accompany the paper:</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• C. Brites, J. Ascenso, and F. Pereira, “[Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating](https://doi.org/10.1109/TCSVT.2020.2976784)”, accepted for publication in *IEEE Transactions on Circuits and Systems for Video Technology*, February 2020.
 
-Besides the PSNR-YUV and SSIM-Y results included in the paper, this page also contains PSNR-Y and BD-Rate/BD-PSNR (for both Y and YUV components) results for the 3 assessment scenarios considered in the paper: 1) royalty-free LLFIC solutions assessment; 2) non-royalty-free LLFIC solutions assessment; and 3) best royalty-free versus non-royalty-free LLFIC solutions comparison.
+Besides the **PSNR-YUV** and **SSIM-Y** results included in the paper, this page also contains **PSNR-Y** and **BD-Rate/BD-PSNR** (for both Y and YUV components) results for the 3 assessment scenarios considered in the paper: 1) royalty-free LLFIC solutions assessment; 2) non-royalty-free LLFIC solutions assessment; and 3) best royalty-free versus non-royalty-free LLFIC solutions comparison.
 
-Results for subjective inspection for the best royalty-free versus non-royalty-free LLFIC solutions comparison scenario considered in the paper can be found in the [Subjective-Comparison page.](Subjective-Comparison.md)
+Results for **subjective inspection** for the best royalty-free versus non-royalty-free LLFIC solutions comparison scenario considered in the paper can be found in the [Subjective-Comparison page.](Subjective-Comparison.md)
 
-Note that a summary table containing a very large set of LLFIC references classified according to the taxonomy proposed in the paper can be found in the [Classification-Table page.](Classification-Table.md)
+Note that a **summary table** containing a very large set of LLFIC references classified according to the taxonomy proposed in the paper can be found in the [Classification-Table page.](Classification-Table.md)
 
 &nbsp;&nbsp;&nbsp;
 ## 1)	Royalty-Free LLFIC Solutions Assessment
