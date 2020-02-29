@@ -1,4 +1,4 @@
-# Supplemental Material - Part 1
+# LLFIC: Supplemental Material - Part 1
 
 <p>This page contains <b>supplemental RD performance assessment results</b> that accompany the paper:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• C. Brites, J. Ascenso, and F. Pereira, "<a href="https://doi.org/10.1109/TCSVT.2020.2976784" title="Hobbit lifestyles">Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating</a>", accepted for publication in <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, February 2020.</p></br>
