@@ -1,4 +1,4 @@
-# Supplemental Material - Part 3
+# LLFIC: Supplemental Material - Part 3
 
 <p>This page contains a <b>summary table</b> where a very large set of <b>LLFIC references</b> are <b>classified according to the LLFIC taxonomy</b> proposed in the paper:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, "<a href="https://doi.org/10.1109/TCSVT.2020.2976784" title="Hobbit lifestyles">Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating</a>", accepted for publication in <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, February 2020.</p><br/>
