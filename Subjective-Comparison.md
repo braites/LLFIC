@@ -1,7 +1,7 @@
-# IEEE TCSVT 2020 Supplemental Material - Part 2
+# Supplemental Material - Part 2
 
-<p>This page contains results for subjective inspection for the best royalty-free versus non-royalty-free LLFIC solutions comparison scenario considered in the paper titled:</p>
-<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, “Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating”, accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology, February 2020.</em> (https://ieeexplore.ieee.org/document/9016088)</p><br/>
+<p>This page contains <b>results for subjective inspection</b> for the best royalty-free versus non-royalty-free LLFIC solutions comparison scenario considered in the paper:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, "<a href="https://doi.org/10.1109/TCSVT.2020.2976784" title="Hobbit lifestyles">Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating</a>", accepted for publication in <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, February 2020.</p><br/>
 
 The results presented in the page are for two different target bitrates, notably approximately 0.005 and 0.02 bpp, for the MuLE [89] and PMV [90] decoded central PIs.
 
