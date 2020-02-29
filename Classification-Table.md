@@ -1,9 +1,9 @@
-# IEEE TCSVT 2020 Supplemental Material - Part 3
+# Supplemental Material - Part 3
 
-<p>This page contains a summary table where a very large set of LLFIC references are classified according to the LLFIC taxonomy proposed in the paper titled:</p>
-<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, “Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating”, accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology, February 2020.</em> (https://ieeexplore.ieee.org/document/9016088)</p><br/>
+<p>This page contains a <b>summary table</b> where a very large set of <b>LLFIC references</b> are <b>classified according to the LLFIC taxonomy</b> proposed in the paper:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	C. Brites, J. Ascenso, and F. Pereira, "<a href="https://doi.org/10.1109/TCSVT.2020.2976784" title="Hobbit lifestyles">Lenslet Light Field Image Coding: Classifying, Reviewing and Evaluating</a>", accepted for publication in <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, February 2020.</p><br/>
 
-Besides the summary table, this page also contains a list of references that are not included in the current paper version due to space limitations ([114]-[140]).
+Besides the summary table, this page also contains a **list of references** that are not included in the current paper version due to space limitations ([114]-[140]).
 
 &nbsp;&nbsp;&nbsp;
 ## 1) LLFIC solutions in the literature classified according to the proposed taxonomy
