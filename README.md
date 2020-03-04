@@ -7,7 +7,9 @@ Besides the **PSNR-YUV** and **SSIM-Y** results included in the paper, this page
 
 Results for **subjective inspection** for the best royalty-free versus non-royalty-free LLFIC solutions comparison scenario considered in the paper can be found in the [Subjective-Comparison page.](Subjective-Comparison.md)
 
-Note that a **summary table** containing a very large set of LLFIC references classified according to the taxonomy proposed in the paper can be found in the [Classification-Table page.](Classification-Table.md)
+Additionally, a **summary table** containing a very large set of LLFIC references classified according to the taxonomy proposed in the paper can be found in the [Classification-Table page.](Classification-Table.md)
+
+We kindly ask to cite the above-mentioned paper if you use the resources in the repository.
 
 &nbsp;&nbsp;&nbsp;
 ## 1)	Royalty-Free LLFIC Solutions Assessment
